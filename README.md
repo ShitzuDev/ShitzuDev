@@ -1,6 +1,6 @@
-### Hi i'm NuZerY
-## i debut on youttube et y try to persevere on informatique
-#  _if you whant i can help you for your projet_
+# Hi i'm NuZerY
+#### i debut on youttube et y try to persevere on informatique
+####  _if you whant i can help you for your projet_
 
 
 <!--
