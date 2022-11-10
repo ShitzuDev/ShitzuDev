@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi i'm NuZerY
+## i debut on youttube et y try to persevere on informatique
+#  _if you whant i can help you for your projet_
+
 
 <!--
 **NuZerY/NuZerY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
