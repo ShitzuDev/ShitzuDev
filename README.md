@@ -3,7 +3,7 @@
 ####  _if you whant i can help you for your projet_
 [my  youtube channel NuZerY-_-](https://www.youtube.com/channel/UCgtJTJnEAMjWZtAf5wrs0dg)
 
-[my insta](https://www.instagram.com/nuzery_yt/) ###![.](https://pic.clubic.com/v1/images/1182568/raw)
+[my insta](https://www.instagram.com/nuzery_yt/)![](https://mpng.subpng.com/20180513/bjw/kisspng-cafe-bazaar-android-samsung-galaxy-s-plus-download-5af8488689c5b6.5578517515262209345643.jpg)
 
 <!--
 **NuZerY/NuZerY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
