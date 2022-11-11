@@ -2,6 +2,7 @@
 #### i debut on youtube and y try to persevere on informatique
 ####  _if you whant i can help you for your projet_
 [my  youtube channel NuZerY-_-](https://www.youtube.com/channel/UCgtJTJnEAMjWZtAf5wrs0dg)
+[my insta](https://www.instagram.com/nuzery_yt/)
 
 <!--
 **NuZerY/NuZerY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
