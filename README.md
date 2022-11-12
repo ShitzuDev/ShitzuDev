@@ -1,6 +1,6 @@
 # Hi i'm NuZerY
-#### i debut on youtube and y try to persevere on informatique
-####  _if you whant i can help you for your projet_
+#### I debut on youtube and y try to persevere on informatique
+####  _If you whant i can help you for your projet_
 [my youtube channel](https://www.youtube.com/channel/UCgtJTJnEAMjWZtAf5wrs0dg)
 
 [my instagram](https://www.instagram.com/nuzery_yt/?hl=fr)
