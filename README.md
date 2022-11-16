@@ -8,6 +8,7 @@
 #### i am fan of the f1
 #### _the web site_ <p align="left"> <a href="https://www.formula1.com/"> <img src="https://cdn.autobild.es/sites/navi.axelspringer.es/public/media/image/2017/11/nuevo-logo-formula-1.jpg" alt="formula1" width="45" height="30"/> </a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuZerY&theme=dark)](https://github.com/NuZerY/github-readme-stats)
 
 
 
