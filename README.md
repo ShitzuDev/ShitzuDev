@@ -5,6 +5,7 @@ Hey, everyone i'm live in Nantes, i'm student in digital systeme. I make smalls 
 In the future i will create a Discord server but for the moment I don't do it because I don't see the need.
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=82FF49C0&width=435&lines=contact)](https://git.io/typing-svg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=00599C&width=435&lines=Languages)](https://git.io/typing-svg) 
