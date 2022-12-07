@@ -2,8 +2,7 @@
 ---
 Hey, everyone i'm live in [Nantes](https://www.google.com/maps/place/Nantes/@47.2382327,-1.5603345,12z/data=!3m1!4b1!4m5!3m4!1s0x4805ee81f0a8aead:0x40d37521e0ded30!8m2!3d47.218371!4d-1.553621), i'm student in [digital système](https://www.societe.com/societe/digital-systems-451685820.html). I make a small programs for the pleasur at home because later i would like to become a [Dev](https://www.indeed.com/career-advice/finding-a-job/types-of-developers#:~:text=A%20developer%20is%20a%20technology,for%20applications%20and%20software%20effectively.), for the moment I am not yet very advanced in programming but I try to invest myself as much as possible in order to succeed in making a lot of projects. </br>
 </br> For the moment I'm trying to get involved in [discord](https://discord.com/) as a moderator, and I'm helping my friends with their projects. I can be a very helpful and useful person so if you need I can help you with your projects. </br>
-In the future i may create a server [discord] but for the moment, I will want i pass you the [discord](https://discord.com/)of a friend ([Yeikzy](https://github.com/Yeikzy/Yeikzy/blob/main/README.md)) of mine who has good project in management [discord](https://discord.com/) and others.</br>
-</br> The Discord witch my firends: [clickhere](https://discord.gg/pwjtGSKCpu)
+In the future i may create a server [discord](https://discord.com/) but for the moment I don't do it because I don't see the need
 
 
 
