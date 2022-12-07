@@ -17,5 +17,5 @@ In the future i will create a Discord server but for the moment I don't do it be
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=1000&color=70A4FC&width=435&lines=Stats)](https://git.io/typing-svg)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShitzuDev&theme=tokyonight)](https://github.com/ShitzuDev/github-readme-stats) <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ShitzuDev&theme=tokyonight&hide_border=true" alt="ShitzuDev" /></p> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShitzuDev&hide_border=true&theme=tokyonight)](https://github.com/ShitzuDev/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ShitzuDev&theme=tokyonight&hide_border=true)](https://github.com/ShitzuDev/github-readme-stats)
 
