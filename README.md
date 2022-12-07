@@ -1,4 +1,4 @@
-# Hi i'm NuZerY
+# Hi i'm Shitzu
 #### I'am an active developer, on discord, And GitHub.
 #### ----------*The languages i use in Dev*----------</br>
 
