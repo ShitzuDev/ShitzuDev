@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9D11FF&center=faux&vCenter=faux&width=435&lines=Hi+i'm+Shitzu)](https://git.io/typing-svg) </br>
-
 ![](https://media.discordapp.net/attachments/1050130624058499155/1052986396270415922/Shitzu_V2.png?width=1076&height=383)
 ---
 
