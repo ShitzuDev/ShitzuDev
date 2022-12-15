@@ -1,5 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9811F7&width=435&lines=Hi+i'm+Shitzu)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=9D11FF&center=faux&vCenter=faux&width=435&lines=Hi+i'm+Shitzu)](https://git.io/typing-svg) </br>
+
+![](https://media.discordapp.net/attachments/1050130624058499155/1052986396270415922/Shitzu_V2.png?width=1076&height=383)
 ---
+
 Hey, everyone i live in Nantes, i'm student in digital systeme. I make smalls programs for the pleasur at home because later i would like to become a Developer, I am not yet very advanced in programming but I try to invest myself as much as possible in order to succeed in making a lot of projects. </br>
 </br> I'm trying to get involved in [Discord](https://discord.com/) as a moderator, and I'm helping my friends with their projects. I can be helpful and useful person so if you need I can help you with your projects. </br>
 In the future i will create a Discord server but for the moment I don't do it because I don't see the need.</br>
