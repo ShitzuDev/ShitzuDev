@@ -3,7 +3,7 @@
 
 Hey, everyone i live in Nantes, i'm student in digital systeme. I make smalls programs for the pleasur at home because later i would like to become a Developer, I am not yet very advanced in programming but I try to invest myself as much as possible in order to succeed in making a lot of projects. </br>
 </br> I'm trying to get involved in [Discord](https://discord.com/) as a moderator, and I'm helping my friends with their projects. I can be helpful and useful person so if you need I can help you with your projects. </br>
-In the future i will create a Discord server but for the moment I don't do it because I don't see the need.</br>
+In the future i will create a Discord server but for the moment I don't do it because I don't see the need. I am moderator on discord at Rocket LeagueSideswipe 4.9k members </br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A50F7&width=435&lines=My+Discord)](https://git.io/typing-svg) </br>
 
