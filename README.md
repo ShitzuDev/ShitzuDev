@@ -7,7 +7,7 @@ In the future i will create a Discord server but for the moment I don't do it be
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A50F7&width=435&lines=My+Discord)](https://git.io/typing-svg) </br>
 
-![](https://i.imgur.com/BIQEtw3.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=65BC32&width=435&lines=Contact)](https://git.io/typing-svg)</br>
 [![Icons](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shitzudev/?hl=fr)
