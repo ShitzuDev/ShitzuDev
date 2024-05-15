@@ -8,7 +8,7 @@ I also put crack games with mega links (the games don't warn me, I find them, in
 if you encounter any problems with python you can contact me on my discord server : </br>
 https://discord.gg/hB3uvRXsya
 
-📖***I'm currently looking for remote work to make some money to create new projects.***
+📖***I'm currently looking for remote work to make some money to create new projects.*** </br>
 contact me on discord or instagrame if you're interested in my profile (I'm a quick learner)
 
 <a href="https://github.com/anuraghazra/convoychat">
