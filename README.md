@@ -11,6 +11,9 @@ if you encounter any problems with python you can contact me on my discord serve
 📖 ***I'm currently looking for remote work to make some money to create new projects.*** </br>
 contact me on discord or instagrame if you're interested in my profile (I'm a quick learner)
 
+🔫 **Don't forget to visit my gun lol to get my full network** <br>
+- [Gunlol.Shitzu](https://guns.lol/shitzu)
+
 ---
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShitzuDev&layout=compact&langs_count=8&card_width=320" />
