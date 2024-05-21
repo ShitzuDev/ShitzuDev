@@ -1,8 +1,9 @@
 **Hello, I'm Shitzu. I'm a RSM player on five M. I'm part of the Reks fn community teams.** </br>
 </br>
 ✅ My programs are 100% safe and updated for maximum security. </br>
-If you encounter a problem, please let me know.
-
+If you encounter a problem, please let me know.</br>
+</br>
+☑️ You can get 100% free games safe and tested by me here: [Free-Game](https://github.com/ShitzuDev/Free-Crack-game)
 ---
 📍 **I create python tools, or art.**
 if you encounter any problems with python you can contact me on my discord server : </br>
