@@ -1,19 +1,36 @@
-**Hello, I'm Shitzu. I'm a RSM player on five M. I'm part of the Reks fn community teams.** </br>
-</br>
-✅ My programs are 100% safe and updated for maximum security. </br>
-If you encounter a problem, please let me know.</br>
-</br>
-☑️ You can get 100% free games safe and tested by me here: [Free-Game](https://github.com/ShitzuDev/Free-Crack-game)
+# **🌟 Bonjour, je suis Shitzu !**  
+
+### 🚀 **Qui suis-je ?**  
+Passionné par la programmation, je travaille actuellement sur divers projets pour développer mes compétences et préparer mon avenir. 🎓 Je vise à intégrer une école supérieure après mon Bac afin de devenir développeur professionnel.  
+
 ---
-📍 **I create python tools, or art.**
-if you encounter any problems with python you can contact me on my discord server : </br>
-- [Citify](https://discord.gg/hB3uvRXsya)
 
-📖 ***I'm currently looking for remote work to make some money to create new projects.*** </br>
-contact me on discord or instagrame if you're interested in my profile (I'm a quick learner)
+### ✅ **Ce que je propose**  
+- 💻 **Des programmes sécurisés et fiables** : Tous mes outils sont 100 % sûrs et régulièrement mis à jour pour garantir une sécurité optimale.  
+- 🛠️ **Compétences en programmation** : J'apprends plusieurs langages et je continue de me perfectionner chaque jour.  
+- 📈 **Une volonté d’apprendre** : Je suis curieux, motivé et toujours prêt à relever de nouveaux défis techniques ou créatifs.  
 
-🔫 **Don't forget to visit my gun lol to get my full network** <br>
-- [Gunlol.Shitzu](https://guns.lol/shitzu)
+---
+
+### 📍 **Mes ambitions**  
+- 🏫 Intégrer une école de développement pour perfectionner mes compétences.  
+- 💼 Trouver des missions à distance afin de financer mes projets et élargir mon expérience.  
+
+---
+
+### 📖 **Ce que je recherche**  
+- **Opportunités de travail à distance** 🖥️ : Vous avez besoin d’un développeur ou d’un créateur d’outils ? Contactez-moi !  
+- **Collaborations enrichissantes** 🤝 : Je suis ouvert à travailler avec des personnes ou des équipes ambitieuses.  
+
+---
+
+### 📩 **Comment me contacter ?**  
+- **Discord** : *Shitzu*  
+- **Instagram** : *ShitzuDev*
+
+---
+
+💡 **Ensemble, construisons des projets innovants et passionnants !** 💡  
 
 ---
 <a href="https://github.com/anuraghazra/convoychat">
