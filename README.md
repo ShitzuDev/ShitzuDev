@@ -33,8 +33,4 @@ Passionné par la programmation, je travaille actuellement sur divers projets po
 💡 **Ensemble, construisons des projets innovants et passionnants !** 💡  
 
 ---
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShitzuDev&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShitzuDev)](https://github.com/anuraghazra/github-readme-stats)
