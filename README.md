@@ -5,7 +5,7 @@ Passionné par la programmation, je travaille actuellement sur divers projets po
 
 ---
 
-### ✅ **Ce que je propose**  
+### ✅ **Ce que j'éffectue**  
 - 💻 **Des programmes sécurisés et fiables** : Tous mes outils sont 100 % sûrs et régulièrement mis à jour pour garantir une sécurité optimale.  
 - 🛠️ **Compétences en programmation** : J'apprends plusieurs langages et je continue de me perfectionner chaque jour.  
 - 📈 **Une volonté d’apprendre** : Je suis curieux, motivé et toujours prêt à relever de nouveaux défis techniques ou créatifs.  
