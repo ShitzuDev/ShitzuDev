@@ -27,7 +27,7 @@ Passionné par la programmation, je travaille actuellement sur divers projets po
 ### 📩 **Comment me contacter ?**  
 - **Discord** : *Shitzu*  
 - **Instagram** : *ShitzuDev*
-
+- **Youtube** : *ShitzuDev*
 ---
 
 💡 **Ensemble, construisons des projets innovants et passionnants !** 💡  
