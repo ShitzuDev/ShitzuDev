@@ -14,7 +14,8 @@ Passionné par la programmation, je travaille actuellement sur divers projets po
 
 ### 📍 **Mes ambitions**  
 - 🏫 Intégrer une école de développement pour perfectionner mes compétences.  
-- 💼 Trouver des missions à distance afin de financer mes projets et élargir mon expérience.  
+- 💼 Trouver des missions à distance afin de financer mes projets et élargir mon expérience.
+- 🌐 **Rendre mon nom "Shitzu" connu sur Internet**
 
 ---
 
