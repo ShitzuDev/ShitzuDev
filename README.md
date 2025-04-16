@@ -1,7 +1,8 @@
 # **🌟 Bonjour, je suis Shitzu !**  
 
 ### 🚀 **Qui suis-je ?**  
-Passionné par la programmation, je travaille actuellement sur divers projets pour développer mes compétences et préparer mon avenir. 🎓 Mon objectif est de poursuivre mes études dans le domaine du réseau afin de devenir hacker éthique et contribuer à la cybersécurité.
+💻 **Passionné par la programmation**, je consacre mon temps à développer divers projets afin d’enrichir mes compétences et construire mon avenir.  
+🎓 Mon ambition : **poursuivre mes études dans le domaine du réseau** pour devenir **hacker éthique** et contribuer activement à la **cybersécurité**.
 
 ---
 
