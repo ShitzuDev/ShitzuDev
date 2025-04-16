@@ -1,7 +1,7 @@
 # **🌟 Bonjour, je suis Shitzu !**  
 
 ### 🚀 **Qui suis-je ?**  
-Passionné par la programmation, je travaille actuellement sur divers projets pour développer mes compétences et préparer mon avenir. 🎓 Je vise à intégrer une école supérieure après mon Bac afin de devenir développeur professionnel.  
+Passionné par la programmation, je travaille actuellement sur divers projets pour développer mes compétences et préparer mon avenir. 🎓 Mon objectif est de poursuivre mes études dans le domaine du réseau afin de devenir hacker éthique et contribuer à la cybersécurité.
 
 ---
 
