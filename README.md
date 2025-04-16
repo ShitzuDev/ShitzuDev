@@ -14,14 +14,14 @@
 ---
 
 ### 📍 **Mes ambitions**  
-- 🏫 Intégrer une école de développement pour perfectionner mes compétences.  
+- 🏫 Intégrer une école en formation BTS SIO SISR en alternance  
 - 💼 Trouver des missions à distance afin de financer mes projets et élargir mon expérience.
 - 🌐 **Rendre mon nom "Shitzu" connu sur Internet**
 
 ---
 
 ### 📖 **Ce que je recherche**  
-- **Opportunités de travail à distance** 🖥️ : Vous avez besoin d’un développeur ou d’un créateur d’outils ? Contactez-moi !  
+- **Opportunités de travail à distance** 🖥️ : Vous avez besoin d’un développeur ou d’un créateur d’outils, ou meme d'un monteur vidéo ? Contactez-moi !  
 - **Collaborations enrichissantes** 🤝 : Je suis ouvert à travailler avec des personnes ou des équipes ambitieuses.  
 
 ---
