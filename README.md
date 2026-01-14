@@ -28,7 +28,7 @@ Site officiel : **https://beviweb.fr**
 ---
 
 ## Ambitions
-- Intégrer un BTS SIO SISR en alternance  
+- Lancer mon entreprise Beviweb 
 - Trouver des missions à distance pour financer mes projets  
 - Développer ma présence en ligne sous le nom “Shitzu”  
 
