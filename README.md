@@ -42,7 +42,7 @@ Site officiel : **https://beviweb.fr**
 
 ## Contact
 - Discord : Shitzu  
-- Instagram : ShitzuDev  
+- Instagram : kil.gdl
 - YouTube : ShitzuDev  
 
 ---
